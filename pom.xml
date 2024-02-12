@@ -10,11 +10,10 @@
         <relativePath/>
     </parent>
 
-    <groupId>unc</groupId>
-    <artifactId>book_trader</artifactId>
+    <groupId>aoki.kyle</groupId>
+    <artifactId>model</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>book_trader</name>
-    <description>A book trading application for UNC.</description>
+    <name>model</name>
 
     <properties>
         <java.version>21</java.version>
